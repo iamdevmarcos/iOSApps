@@ -13,7 +13,7 @@
 
 <div>
   <h3>App Name: <strong>Random Photos</strong></h3>
-  <h4>Created with: <strong>UI Kit</strong></h4>
+  <h4>Created with: <strong>UI Kit + Storyboard</strong></h4>
   <h4>Repository: <strong><a href="#">Click here</a></strong></h4>
 
   <h4>Preview -></h4>
@@ -24,9 +24,20 @@
 
 <div>
   <h3>App Name: <strong>Todo List</strong></h3>
-  <h4>Created with: <strong>UI Kit</strong></h4>
+  <h4>Created with: <strong>UI Kit + Storyboard</strong></h4>
   <h4>Repository: <strong><a href="#">Click here</a></strong></h4>
 
   <h4>Preview -></h4>
   <img src="./screenshots/03.png" width="100%" />
+</div>
+
+<br />
+
+<div>
+  <h3>App Name: <strong>Photo Mania</strong></h3>
+  <h4>Created with: <strong>Swift UI</strong></h4>
+  <h4>Repository: <strong><a href="#">Click here</a></strong></h4>
+
+  <h4>Preview -></h4>
+  <img src="./screenshots/04.png" width="100%" />
 </div>
