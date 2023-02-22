@@ -14,7 +14,7 @@
 <div>
   <h3>App Name: <strong>Random Photos</strong></h3>
   <h4>Created with: <strong>UI Kit + Storyboard</strong></h4>
-  <h4>Repository: <strong><a href="#">Click here</a></strong></h4>
+  <h4>Repository: <strong><a href="https://github.com/iamdevmarcos/RandomPhotos">Click here</a></strong></h4>
 
   <h4>Preview -></h4>
   <img src="./screenshots/02.png" width="100%" />
